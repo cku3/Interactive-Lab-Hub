@@ -6,20 +6,27 @@ Part A. Set Up a Breadboard
 
 Part B. Manually Blink a LED
 a. What color stripes are on a 100 Ohm resistor?
+brown-black-brown
 
 b. What do you have to do to light your LED?
+After the circuit with the button is made, I can light the LED by pressing the button.
 
 Part C. Blink a LED using Arduino
 1. Blink the on-board LED
 a. What line(s) of code do you need to change to make the LED blink (like, at all)?
+None, the code in the example already blinks the LED.
 
 b. What line(s) of code do you need to change to change the rate of blinking?
+The delay lines control the rate of the blinking.
 
 c. What circuit element would you want to add to protect the board and external LED?
+I would add a resistor.
 
 d. At what delay can you no longer perceive the LED blinking? How can you prove to yourself that it is, in fact, still blinking?
+When the delay is set to 10, the LED no longer looks like it's blinking. I can prove to myself that it is by using a multimeter to check the voltage and see that it is going high and low.
 
 e. Modify the code to make your LED blink your way. Save your new blink code to your lab 1 repository, with a link on the README.md.
+blink-changed.ino
 
 2. Blink your LED
 Make a video of your LED blinking, and add it to your lab submission.
@@ -28,11 +35,14 @@ Make a video of your LED blinking, and add it to your lab submission.
 
 Part D. Manually fade an LED
 a. Are you able to get the LED to glow the whole turning range of the potentiometer? Why or why not?
+The LED does glow brighter and dimmer, but it does not make the LED turn off completely or as bright as possible because it restricts the resistance from being infinite or zero.
 
 Part E. Fade an LED using Arduino
 a. What do you have to modify to make the code control the circuit you've built on your breadboard?
+I changed the led assignment from 9 to 11.
 
 b. What is analogWrite()? How is that different than digitalWrite()?
+digitalWrite can only be high (5V) or low (0V) vs. analogWrite which can be a range of values that you set for the pulse-width-modulation wave. 
 
 Part F. FRANKENLIGHT!!!
 1. Take apart your electronic device, and draw a schematic of what is inside.

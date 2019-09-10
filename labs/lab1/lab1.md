@@ -94,11 +94,17 @@ Description below.
 
 ##### Schematics: 
 1. Headphone Wiring:
+
 ![alt text](http://www.circuitbasics.com/wp-content/uploads/2015/03/iPhone-Headphone-Wires-EDITED-RESIZED.jpg)
+
 2. Headphone Jack: 
+
 ![alt text](https://i.stack.imgur.com/WpR1r.png)
+
 3. Transistor Datasheet: https://www.st.com/resource/en/datasheet/cd00003223.pdf
+
 4. Circuit: 
+
 ![alt text](https://i.imgur.com/F5a6K0D.jpg)
 
 ##### Tools and Materials:

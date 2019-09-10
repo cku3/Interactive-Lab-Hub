@@ -1,6 +1,6 @@
 # Interactive-Lab-Hub
 
-Completed Labs for John Q. Student
+Completed Labs for Christine Ku
 
-1. [John Q's Lab 1](//github.com/johnqstudent/idd-fa18-lab1)
-2. [John Q's Lab 2](//github.com/johnqstudent/idd-fa18-lab2)
+1. [Christine Ku Lab 1](https://github.com/cku3/Interactive-Lab-Hub/tree/master/labs/lab1)
+2. 

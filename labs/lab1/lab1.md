@@ -38,7 +38,7 @@ d. At what delay can you no longer perceive the LED blinking? How can you prove 
 
 e. Modify the code to make your LED blink your way. Save your new blink code to your lab 1 repository, with a link on the README.md.
 
-*blink-changed.ino*
+[blink-changed.ino](https://github.com/cku3/Interactive-Lab-Hub/blob/master/labs/lab1/blink-changed.ino)
 
 2. Blink your LED
 Make a video of your LED blinking, and add it to your lab submission.

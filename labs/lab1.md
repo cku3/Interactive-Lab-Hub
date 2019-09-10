@@ -8,6 +8,7 @@ Photo:
 ![alt text](https://i.imgur.com/PIqHuHY.jpg)
 
 Part B. Manually Blink a LED
+
 a. What color stripes are on a 100 Ohm resistor?
 
 *brown-black-brown*
@@ -18,6 +19,7 @@ b. What do you have to do to light your LED?
 
 Part C. Blink a LED using Arduino
 1. Blink the on-board LED
+
 a. What line(s) of code do you need to change to make the LED blink (like, at all)?
 
 *None, the code in the example already blinks the LED.*
@@ -42,7 +44,8 @@ e. Modify the code to make your LED blink your way. Save your new blink code to 
 Make a video of your LED blinking, and add it to your lab submission.
 
 Video:
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/upload_thumbnail?v=jIbR6M6BAOk&t=3)[https://youtu.be/jIbR6M6BAOk]
+
+[![blinky](https://i.imgur.com/wQG5wk4.png)](https://youtu.be/jIbR6M6BAOk)
 
 Part D. Manually fade an LED
 a. Are you able to get the LED to glow the whole turning range of the potentiometer? Why or why not?
@@ -84,7 +87,8 @@ Describe what you did here.
 *I stripped a broken pair of iPhone headphones and connected the audio to transistors so that the LEDs would blink to the beat of the music playing.*
 
 Video:
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/upload_thumbnail?v=n-o7UD0Oijc&t=hqdefault&ts=1568085809744)](https://youtu.be/n-o7UD0Oijc)
+
+[![talk](https://i.imgur.com/66Qrs95.jpg)](https://youtu.be/n-o7UD0Oijc)
 
 Schematics: 
 1. Headphone Wiring:
@@ -115,4 +119,3 @@ Testing and Troubleshooting:
 1. While stripping the headphones, I checked the continuity of my soldered wires to the headphone jack using a multimeter.
 2. Used multimeter to check voltage drops across each component.
 3. Make sure your audio source is loud enough. I spent a couple hours trying to figure out why my LEDs weren't blinking only to realize my computer didn't output a loud enough audio/high enough current to trigger the transistors.
-

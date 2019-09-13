@@ -1,9 +1,12 @@
-#Lab 2: Digital Timer
+# Lab 2: Digital Timer
 ### Christine Ku
-Part A: Soldering LCD Displasy
+#### Part A: Soldering LCD Displasy
+
 Picture:
 
-Part B: Writing to the LCD
+![lcd](https://i.imgur.com/QKqfFoE.jpg?1)
+
+#### Part B: Writing to the LCD
 
 *a. What voltage level do you need to power your display?*
 
@@ -22,12 +25,15 @@ Line 54: lcd.print("Hello World!") --> lcd.print("Christine Ku")
 
 *e. Include a copy of your Lowly Multimeter code in your lab write-up.*
 
-Part C. Using a time-based digital sensor
+[Lowly_Multimeter](labs/Lowly_Multimeter.ino)
+
+#### Part C. Using a time-based digital sensor
 
 Encoder Serial Monitor Output Video:
 
+[![encoder](https://i.pinimg.com/originals/11/8e/6f/118e6f39fac9344d6589c84d5ee9e667.png)](https://youtu.be/QIUVEj6iAwQ)
 
-Part D. Make your Arduino sing!
+#### Part D. Make your Arduino sing!
 
 *a. How would you change the code to make the song play twice as fast?*
 One way is to half the note durations.
@@ -35,5 +41,11 @@ One way is to half the note durations.
 *b. What song is playing?*
 Star Wars!
 
-Part E. Timer
+#### Part E. Timer
 
+Video:
+
+[![simon](https://i.imgur.com/UlQBVSD.jpg)](https://youtu.be/t-AV3ubxmAY)
+
+Code:
+[Simon Says Alarm](labs/Simon_Says_Timer.ino)

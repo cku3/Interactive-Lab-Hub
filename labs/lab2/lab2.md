@@ -25,7 +25,7 @@ Line 54: lcd.print("Hello World!") --> lcd.print("Christine Ku")
 
 *e. Include a copy of your Lowly Multimeter code in your lab write-up.*
 
-[Lowly_Multimeter](labs/lab2/Lowly_Multimeter.ino)
+[Lowly_Multimeter](Lowly_Multimeter.ino)
 
 #### Part C. Using a time-based digital sensor
 
@@ -48,4 +48,4 @@ Video:
 [![simon](https://i.imgur.com/UlQBVSD.jpg)](https://youtu.be/t-AV3ubxmAY)
 
 Code:
-[Simon Says Alarm](labs/lab2/Simon_Says_Timer.ino)
+[Simon Says Alarm](Simon_Says_Timer.ino)

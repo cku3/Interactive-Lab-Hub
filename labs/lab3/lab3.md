@@ -34,10 +34,12 @@ Linear, as resistance increases, voltage increases
 force-sensor.ino
 
 **d. What resistance do you need to have in series to get a reasonable range of voltages from each sensor?**
-
+Flex sensor: 10k
+Photo Cell: 10k
+Softpot: 10k to power, 10k to gnd => 20k
 
 **e. What kind of relationship does the resistance have as a function of stimulus? (e.g., linear?)**
-
+Linear: as resistance increases, current decreases and voltage increases
 ### 2. Accelerometer
  
 **a. Include your accelerometer read-out code in your write-up.**

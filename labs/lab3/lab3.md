@@ -50,7 +50,7 @@ Linear: as resistance increases, current decreases and voltage increases
 
 **b. Upload your merged code to your lab report repository and link to it here.**
 
-## Optional. Graphic Display
+## Graphic Display
 
 **Take a picture of your screen working insert it here!**
 
@@ -59,14 +59,19 @@ Linear: as resistance increases, current decreases and voltage increases
 ### 1. Reading and writing values to the Arduino EEPROM
 
 **a. Does it matter what actions are assigned to which state? Why?**
+Yes because you want to go in a certain order and maintain which state does what throughout the execution. 
 
 **b. Why is the code here all in the setup() functions and not in the loop() functions?**
+It's not being executed continuously, only one time at the start.
 
 **c. How many byte-sized data samples can you store on the Atmega328?**
+1024 bytes
 
 **d. How would you get analog data from the Arduino analog pins to be byte-sized? How about analog data from the I2C devices?**
+Convert the data read to the byte data type after AnalogRead. For I2C, you can use the Wire.write to send the byte data over, assigning the data type within the function's argument.
 
 **e. Alternately, how would we store the data if it were bigger than a byte? (hint: take a look at the [EEPROMPut](https://www.arduino.cc/en/Reference/EEPROMPut) example)**
+Split the data value up into multiple bytes and store them in consecutive addresses. 
 
 **Upload your modified code that takes in analog values from your sensors and prints them back out to the Arduino Serial Monitor.**
 

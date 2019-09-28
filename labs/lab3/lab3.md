@@ -18,6 +18,7 @@
 **How might you use this with only the parts in your kit? Show us your solution.**
 
 [rgb code](rgb.ino)
+
 https://youtu.be/PLN3NU_6xRw
 
 ## Part C. Voltage Varying Sensors 
@@ -58,7 +59,8 @@ https://youtu.be/Yw_vBmyY5Qw
 
 **Take a picture of your screen working insert it here!**
 
-[oled fsr display code](oled_a0.ino)
+[oled_a0.ino](oled_a0.ino)
+
 https://youtu.be/9WWLPTEHEco
 
 ## Part D. Logging values to the EEPROM and reading them back
@@ -93,6 +95,14 @@ Split the data value up into multiple bytes and store them in consecutive addres
 ### 3. Create your data logger!
  
 **a. Record and upload a short demo video of your logger in action.**
-light_data_logger.ino
+[light_data_logger.ino](light_data_logger.ino)
+
+[state0](state0)
+
+[state1](state1)
+
+[state2](state2)
+
 Data logger that is similar to f.lux, a feature you can install onto your laptop. Based on the time of day, your screen will change between warm and cool tones. For this quick logger, the photoresistor detects the amount of sunlight/light to discern day/night settings. When it's night/dark, the led changes to a warmer color and when the environment is bright, it changes to a white or bluer tone.
+
 https://youtu.be/8C-4kS05fms

@@ -51,4 +51,4 @@ https://youtu.be/QX7LdDpgAbY
 ## Part E. Make it your own
 
 **a. Make a video of your final design.**
- 
+ countdown and flag to signal start two servos

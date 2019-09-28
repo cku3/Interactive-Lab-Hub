@@ -33,7 +33,7 @@ Linear, as resistance increases, voltage increases
 
 **c. Can you change the LED fading code values so that you get the full range of output voltages from the LED when using your FSR?**
 
-force-sensor.ino
+[force-sensor.ino](force-sensor.ino)
 
 https://youtu.be/9vH8qoz8EeU
 
@@ -49,7 +49,7 @@ Linear: as resistance increases, current decreases and voltage increases
  
 **a. Include your accelerometer read-out code in your write-up.**
 
-acceldemo-lcdmod.ino
+[acceldemo-lcdmod.ino](acceldemo-lcdmod.ino)
 
 https://youtu.be/Yw_vBmyY5Qw
 
@@ -80,7 +80,7 @@ Split the data value up into multiple bytes and store them in consecutive addres
 
 **Upload your modified code that takes in analog values from your sensors and prints them back out to the Arduino Serial Monitor.**
 
-eeprom_put_mod.ino
+[eeprom_put_mod.ino](eeprom_put_mod.ino)
 
 ### 2. Design your logger
  

@@ -1,6 +1,6 @@
 # Paper Puppets
 
-*A lab report by John Q. Student*
+*A lab report by Christine Ku*
 
 ## In this Report
 
@@ -9,6 +9,8 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 ## Part A. Actuating DC motors
 
 **Link to a video of your vibration motor**
+
+https://youtu.be/Jdj5tcnKKZE
 
 ## Part B. Actuating Servo motors
 
@@ -31,9 +33,13 @@ pos controls angle, delay controls speed
 
 **Include a photo/movie of your raw circuit in action.**
 
+https://youtu.be/U96vFCMwv1w
+
 ## Part D. Paper puppet
 
 **a. Make a video of your proto puppet.**
+
+https://youtu.be/QX7LdDpgAbY
 
 ## Part E. Make it your own
 

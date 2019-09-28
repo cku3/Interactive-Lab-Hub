@@ -95,6 +95,7 @@ Split the data value up into multiple bytes and store them in consecutive addres
 ### 3. Create your data logger!
  
 **a. Record and upload a short demo video of your logger in action.**
+
 [light_data_logger.ino](light_data_logger.ino)
 
 [state0](state0)

@@ -17,17 +17,24 @@ https://youtu.be/Jdj5tcnKKZE
 ### Part 1. Connect the Servo to your breadboard
 
 **a. Which color wires correspond to power, ground and signal?**
+
 Power- Red
+
 Ground- Brown
+
 Signal- Orange
 
 ### Part 2. Connect the Servo to your Arduino
 
 **a. Which Arduino pin should the signal line of the servo be attached to?**
+
 Pin 9
 
 **b. What aspects of the Servo code control angle or speed?**
-pos controls angle, delay controls speed
+
+pos controls angle
+
+delay controls speed
 
 ## Part C. Integrating input and output
 

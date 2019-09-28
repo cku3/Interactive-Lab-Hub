@@ -17,6 +17,7 @@
 
 **How might you use this with only the parts in your kit? Show us your solution.**
 
+[rgb code](rgb.ino)
 https://youtu.be/PLN3NU_6xRw
 
 ## Part C. Voltage Varying Sensors 
@@ -57,6 +58,7 @@ https://youtu.be/Yw_vBmyY5Qw
 
 **Take a picture of your screen working insert it here!**
 
+[oled fsr display code](oled_a0.ino)
 https://youtu.be/9WWLPTEHEco
 
 ## Part D. Logging values to the EEPROM and reading them back

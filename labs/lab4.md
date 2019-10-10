@@ -51,4 +51,7 @@ https://youtu.be/QX7LdDpgAbY
 ## Part E. Make it your own
 
 **a. Make a video of your final design.**
- countdown and flag to signal start two servos
+
+https://youtu.be/snLzbKEQ8XI
+
+Template for countdown paper signal also from Google Paper Signals. I chose not to encase the servo motor and arduino. Also, I used the glue dot to make sure the screw and colored paper would rotate together, but it got stuck a little at the end.

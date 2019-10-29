@@ -8,3 +8,4 @@ Completed Labs for Christine Ku
 4. [Christine Ku Lab 4](https://github.com/cku3/Interactive-Lab-Hub/tree/master/labs/lab4)
 5. [Christine Ku Lab 5](https://github.com/cku3/Interactive-Lab-Hub/tree/master/labs/lab5)
 6. [Christine Ku Lab 6](https://github.com/cku3/IDD-Fa19-Lab6)
+7. [Christine Ku Lab 7](https://github.com/cku3/IDD-Fa19-Lab7)
